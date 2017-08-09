@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/iylia/.cache/.fr-dvAZzl/rockchip-mkbootimg-master/unmkbootimg.c" added="2017-08-09T13:00:03Z" modified="2017-08-09T13:00:13Z" visited="2017-08-09T13:00:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-09T13:00:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/iylia/.cache/.fr-jhWIv7/rockchip-mkbootimg-master/unmkcpiogz" added="2017-08-09T13:00:34Z" modified="2017-08-09T13:00:34Z" visited="2017-08-09T13:00:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-09T13:00:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/iylia/.cache/.fr-Qy6Bha/rockchip-mkbootimg-master/README.md" added="2017-08-09T13:00:39Z" modified="2017-08-09T13:00:39Z" visited="2017-08-09T13:00:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-09T13:00:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/iylia/UBUNTU%2016_0/rockchip-mkbootimg-master/unmkbootimg.c" added="2017-08-09T14:25:37Z" modified="2017-08-09T14:25:37Z" visited="2017-08-09T14:25:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-09T14:25:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/iylia/UBUNTU%2016_0/Linux_Upgrade_Tool_v1.2.tar.gz" added="2017-08-09T14:26:01Z" modified="2017-08-09T14:26:07Z" visited="2017-08-09T14:26:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-08-09T14:26:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/iylia/UBUNTU%2016_0/T-Firefly-firefly-rk3288-kernel-2b4f809245dd.zip" added="2017-08-09T14:26:12Z" modified="2017-08-09T14:26:12Z" visited="2017-08-09T14:26:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-08-09T14:26:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/iylia/UBUNTU%2016_0/T-Firefly-firefly-rk3288-kernel-888979adc1a4.zip" added="2017-08-09T14:26:51Z" modified="2017-08-09T14:26:51Z" visited="2017-08-09T14:26:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-08-09T14:26:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/iylia/UBUNTU%2016_0/rockchip-mkbootimg-master/Makefile" added="2017-08-09T14:27:20Z" modified="2017-08-09T14:27:20Z" visited="2017-08-09T14:27:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-09T14:27:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/iylia/UBUNTU%2016_0/MT7630E-release.tar.gz" added="2017-08-09T14:40:01Z" modified="2017-08-09T14:58:26Z" visited="2017-08-09T14:40:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-08-09T14:58:26Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/iylia/Desktop" added="2017-08-09T14:40:07Z" modified="2017-08-09T07:49:49Z" visited="2017-08-09T14:40:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-08-09T07:49:49Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/iylia/Desktop/Before%20You%20Start.docx" added="2017-08-09T07:35:35Z" modified="2017-08-09T07:45:48Z" visited="2017-08-09T07:35:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-08-09T07:37:47Z" count="2"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2017-08-09T07:45:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/iylia/Downloads/arm-eabi-4.6-refs_tags_android-4.4.2_r1.tar.gz" added="2017-08-09T07:49:37Z" modified="2017-08-09T07:49:44Z" visited="2017-08-09T07:49:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-08-09T07:49:37Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-08-09T07:49:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

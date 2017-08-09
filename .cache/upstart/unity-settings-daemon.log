@@ -1,0 +1,2 @@
+
+(unity-settings-daemon:1385): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'

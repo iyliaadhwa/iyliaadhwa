@@ -1,0 +1,17 @@
+logrotate state -- version 2
+"/home/iylia/.cache/upstart/dbus.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/unity-panel-service-lockscreen.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/window-stack-bridge.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/bamfdaemon.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/unity-settings-daemon.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/hud.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/indicator-keyboard.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/upstart-event-bridge.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/unity-panel-service.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/ssh-agent.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/indicator-printers.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/gnome-keyring-ssh.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/indicator-sound.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/unity7.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/gpg-agent.log" 2017-8-9-23:18:0
+"/home/iylia/.cache/upstart/update-notifier-release.log" 2017-8-9-23:18:0

@@ -1,0 +1,318 @@
+WARN  2017-08-09 23:19:50 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2017-08-09 23:19:50 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+ERROR 2017-08-09 23:19:50 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2017-08-09 23:19:50 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x332bed0 at position 12. The row has probably been removed
+ERROR 2017-08-09 23:19:50 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x332bed0 holds a NULL value in row 12
+ERROR 2017-08-09 23:19:50 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2017-08-09 23:19:50 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x332bed0 at position 12. The row has probably been removed
+ERROR 2017-08-09 23:19:50 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x332bed0 holds a NULL value in row 12
+
+(nautilus:1913): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:1913): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:1913): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:1913): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:1913): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+/usr/lib/python3/dist-packages/softwareproperties/gtk/SoftwarePropertiesGtk.py:40: PyGIWarning: Gdk was imported without specifying a version first. Use gi.require_version('Gdk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import GObject, Gdk, Gtk, Gio, GLib
+/usr/lib/python3/dist-packages/softwareproperties/gtk/SoftwarePropertiesGtk.py:40: PyGIWarning: Gdk was imported without specifying a version first. Use gi.require_version('Gdk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import GObject, Gdk, Gtk, Gio, GLib
+/usr/lib/python3/dist-packages/softwareproperties/gtk/SoftwarePropertiesGtk.py:40: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import GObject, Gdk, Gtk, Gio, GLib
+/usr/lib/python3/dist-packages/softwareproperties/gtk/SoftwarePropertiesGtk.py:40: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import GObject, Gdk, Gtk, Gio, GLib
+(software-properties-gtk:2005): Gtk-DEBUG: Connecting to session manager
+WARN  2017-08-09 23:29:37 unity <unknown>:0 compiz: Fatal IO error 4 (Interrupted system call) on X server :0.
+
+OpenGL vendor string:   Intel Open Source Technology Center
+OpenGL renderer string: Mesa DRI Intel(R) Haswell Desktop 
+OpenGL version string:  3.0 Mesa 17.0.7
+
+Not software rendered:    [32;01myes[00m
+Not blacklisted:          [32;01myes[00m
+GLX fbconfig:             [32;01myes[00m
+GLX texture from pixmap:  [32;01myes[00m
+GL npot or rect textures: [32;01myes[00m
+GL vertex program:        [32;01myes[00m
+GL fragment program:      [32;01myes[00m
+GL vertex buffer object:  [32;01myes[00m
+GL framebuffer object:    [32;01myes[00m
+GL version is 1.4+:       [32;01myes[00m
+
+Unity 3D supported:       [32;01myes[00m
+Using compiz profile 'ubuntu'
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Starting plugin: opengl
+Compiz (opengl) - Info: GLX_EXT_buffer_age is supported
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2017-08-09 23:30:11 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+WARN  2017-08-09 23:30:11 unity.debug.interface DebugDBusInterface.cpp:217 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: cannot open shared object file: No such file or directory -- full D-Bus introspection will not be available
+WARN  2017-08-09 23:30:11 xim.controller XIMController.cpp:103 IBus natively supported.
+WARN  2017-08-09 23:30:11 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : Valid key file could not be found in search dirs
+WARN  2017-08-09 23:30:11 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2017-08-09 23:30:11 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2017-08-09 23:30:11 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2017-08-09 23:30:11 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2017-08-09 23:30:11 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+ERROR 2017-08-09 23:30:12 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
+ERROR 2017-08-09 23:30:12 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
+WARN  2017-08-09 23:30:12 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-08-09 23:30:12 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-08-09 23:30:12 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-08-09 23:30:12 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-08-09 23:30:12 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-08-09 23:30:12 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-08-09 23:30:12 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-08-09 23:30:12 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-08-09 23:30:12 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-08-09 23:30:12 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2017-08-09 23:31:17 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+ERROR 2017-08-09 23:31:20 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2017-08-09 23:31:20 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x38bf690 at position 12. The row has probably been removed
+ERROR 2017-08-09 23:31:20 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x38bf690 holds a NULL value in row 12
+ERROR 2017-08-09 23:31:20 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2017-08-09 23:31:20 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x38bf690 at position 12. The row has probably been removed
+ERROR 2017-08-09 23:31:20 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x38bf690 holds a NULL value in row 12
+WARN  2017-08-09 23:31:20 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2017-08-09 23:31:27 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+WARN  2017-08-09 23:31:27 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2017-08-09 23:31:27 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+WARN  2017-08-09 23:31:33 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2017-08-09 23:31:33 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+WARN  2017-08-09 23:31:33 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2017-08-09 23:31:33 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+/usr/lib/python3/dist-packages/softwareproperties/gtk/SoftwarePropertiesGtk.py:40: PyGIWarning: Gdk was imported without specifying a version first. Use gi.require_version('Gdk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import GObject, Gdk, Gtk, Gio, GLib
+/usr/lib/python3/dist-packages/softwareproperties/gtk/SoftwarePropertiesGtk.py:40: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import GObject, Gdk, Gtk, Gio, GLib
+/usr/bin/update-manager:28: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+/usr/lib/python3/dist-packages/UpdateManager/UnitySupport.py:29: PyGIWarning: Dbusmenu was imported without specifying a version first. Use gi.require_version('Dbusmenu', '0.4') before import to ensure that the right version gets loaded.
+  from gi.repository import Dbusmenu, Unity
+/usr/lib/python3/dist-packages/UpdateManager/UnitySupport.py:29: PyGIWarning: Unity was imported without specifying a version first. Use gi.require_version('Unity', '7.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Dbusmenu, Unity
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+1502264267721	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+ERROR 2017-08-09 15:39:20 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 16384x16384 to texture.
+ERROR 2017-08-09 15:39:20 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 16384x16384 to texture.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+1502264596754	addons.repository	WARN	Search failed when repopulating cache
+1502264597882	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1502264597889	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1502264597896	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1502264597928	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1502264597934	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1502264598957	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+ERROR 2017-08-09 15:43:20 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 16384x16384 to texture.
+ERROR 2017-08-09 15:43:20 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 16384x16384 to texture.
+1502264603133	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1502264603152	addons.repository	WARN	Search failed when adding add-ons to cache
+1502264603153	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1502264603208	addons.xpi	ERROR	Failed to download system add-on gmp-gmpopenh264: Error: File /tmp/tmpaddon does not contain a valid install manifest (resource://gre/modules/addons/XPIProvider.jsm:1540:11) JS Stack trace: loadManifestFromZipReader<@XPIProvider.jsm:1540:11
+1502264604202	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing arch: An unexpected property was found in the WebExtension manifest.
+1502264604202	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing offline_enabled: An unexpected property was found in the WebExtension manifest.
+1502264604202	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing os: An unexpected property was found in the WebExtension manifest.
+1502264604202	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing x-cdm-codecs: An unexpected property was found in the WebExtension manifest.
+1502264604202	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing x-cdm-host-versions: An unexpected property was found in the WebExtension manifest.
+1502264604203	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing x-cdm-interface-versions: An unexpected property was found in the WebExtension manifest.
+1502264604203	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing x-cdm-module-versions: An unexpected property was found in the WebExtension manifest.
+1502264604207	addons.xpi	WARN	Add-on undefined is not correctly signed.
+1502264604207	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIProvider.jsm:3217:13) JS Stack trace: this.XPIProvider.updateSystemAddons<@XPIProvider.jsm:3217:13
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: loadFile@resource://gre/modules/services-common/blocklist-clients.js:119:30
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+loadDumpFile@resource://gre/modules/services-common/blocklist-clients.js:118:12
+syncCollection@resource://gre/modules/services-common/blocklist-clients.js:212:39
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+
+*************************
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
